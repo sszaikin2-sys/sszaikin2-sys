@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sszaikin2-sys/sszaikin2-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Сергей 👋
 
-Here are some ideas to get you started:
+### Telegram-боты · Автоматизация · Разработка с ИИ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Изучаю технологии на практике и превращаю идеи в полезные инструменты.
+
+</div>
+
+---
+
+## Чем занимаюсь
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Telegram-боты
+
+Развиваю собственный проект бота. Работаю над его логикой, данными и удобством использования.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Автоматизация
+
+Ищу способы упростить повторяющиеся задачи с помощью кода и ИИ-помощников.
+
+</td>
+</tr>
+</table>
+
+## Что изучаю
+
+- **Разработку с ИИ** — от идеи и первых изменений до проверки результата.
+- **Git и GitHub** — хранение кода и работу с историей проекта.
+- **Работу с данными** — базы данных и инструменты для их использования.
+
+## Мой подход
+
+Начинаю с конкретной задачи, собираю рабочую версию и постепенно улучшаю её. Здесь буду делиться проектами и тем, чему учусь по пути.
